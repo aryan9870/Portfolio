@@ -1,0 +1,20 @@
+
+
+.item{
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+}
+
+.item:hover{
+    color: yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow;
+}
+
+.active{
+    color: yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow;
+}
+
